@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "entry": "model.py",
+  "files": ["weights.json"],
+  "requires": [],
+  "name": "Tokamak minimal streaming baseline",
+  "notes": "Pure-Python runtime. Export trained XGBoost JSON weights from main_v3.ipynb before using for competition results; shipped weights are a protocol smoke-test fallback only."
+}

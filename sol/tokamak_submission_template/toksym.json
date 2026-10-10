@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "entry": "model.py",
+  "files": ["weights.json"],
+  "requires": [],
+  "name": "Tokamak Dynamics ROC-AUC",
+  "notes": "Streaming XGBoost predictor. Trained weights must be exported to weights.json before submission."
+}
