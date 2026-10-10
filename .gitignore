@@ -1,0 +1,5 @@
+*.csv
+*.joblib
+*.parquet
+hackaton/
+sol/
